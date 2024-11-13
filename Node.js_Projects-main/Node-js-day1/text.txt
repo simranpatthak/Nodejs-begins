@@ -1,0 +1,16 @@
+[12:13, 13/11/2024] Simran Mishra ♥️: *Local Modules:*
+
+Local modules are modules that you create in your own project. They are specific to your project and are not part of the Node.js core or external modules.
+[12:14, 13/11/2024] Simran Mishra ♥️: In Node.js, a module is a reusable piece of code that can be included and used in other parts of an application. Node.js uses the CommonJS module system to manage these modules, allowing developers to organize their code into smaller, manageable pieces.
+[12:15, 13/11/2024] Simran Mishra ♥️: ## External Node Modules:
+
+These are also called as third party libraries, as they are written by someone else
+and we can directly use them in our project.
+Install is-even package using npm .
+Play around with it as we did in the session to understand the concept.
+You can install any other package as well and plat around with it.
+
+## *Core Modules/Inbuild Modules*
+
+- These are modules that come pre-installed with Node.js, and you can use them directly without needing to install anything separately.
+- Examples include modules like *fs* (File System), *http* (HTTP server and client), *path* (File and Directory Paths), and *util* (Utilities for debugging and formatting)
